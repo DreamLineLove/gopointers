@@ -10,7 +10,7 @@ func main() {
 	flag.Parse()
 
 	WriteTitle("With variables")
-	basic(basicString)
+	basics(basicString)
 	NewLine()
 	WriteTitle("With functions")
 	functions(functionsString)
