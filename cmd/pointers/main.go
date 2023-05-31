@@ -13,10 +13,16 @@ func main() {
 
 	WriteTitle("With variables")
 	basics(basicsString)
+
 	NewLine()
 	WriteTitle("With functions")
 	functions(functionsString)
+
 	NewLine()
 	WriteTitle("With methods")
 	methods(methodsString)
+
+	NewLine()
+	WriteTitle("Handling nil pointers")
+	handlingNil()
 }
