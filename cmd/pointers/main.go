@@ -16,4 +16,7 @@ func main() {
 	NewLine()
 	WriteTitle("With functions")
 	functions(functionsString)
+	NewLine()
+	WriteTitle("With methods")
+	methods(methodsString)
 }

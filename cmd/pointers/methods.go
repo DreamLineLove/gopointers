@@ -23,4 +23,13 @@ func methods(methodsString string) {
 		fmt.Println("ERROR:", err)
 		return
 	}
+
+	gh.changeValue(newValue)
+
+	WriteSpace()
+	fmt.Println("Value changed using pointer:", methodsString)
+}
+
+func (repo *GitRemoteRepository) changeValue(newValue string) {
+	repo.ProviderName = newValue
 }
