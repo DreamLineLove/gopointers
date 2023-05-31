@@ -22,7 +22,7 @@ In this repository, I explore the use of **pointers** in Go programming language
     > go run ./cmd/pointers/ -basicsString=something
 
 - *-functionsString* sets the value of the functionsString variable in functions() function
-     go run ./cmd/pointers/ -functionsString=something
+    > go run ./cmd/pointers/ -functionsString=something
 
 - *-methodsString* sets the value of the methodsString variable in methods() function
     > go run ./cmd/pointers/ -methodsString=something
