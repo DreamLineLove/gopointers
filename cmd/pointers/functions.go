@@ -5,9 +5,6 @@ import (
 )
 
 func functions(functionsString string) {
-	// var functionsString string
-	// flag.StringVar(&functionsString, "functionsString", "foo", "The value that will used in the basic() function.")
-	// flag.Parse()
 	WriteSpace()
 	fmt.Println("Original value:", functionsString)
 

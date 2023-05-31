@@ -5,10 +5,6 @@ import (
 )
 
 func basics(basicString string) {
-	// var basicString string
-	// flag.StringVar(&basicString, "basicString", "foo", "The value that will used in the basic() function.")
-	// flag.Parse()
-
 	WriteSpace()
 	fmt.Println("Original string:", basicString)
 
