@@ -19,7 +19,7 @@ func handlingNil() {
 
 	NewLine()
 	WriteSpace()
-	fmt.Println("-\tRead the source code to learn more")
+	fmt.Println("-\tRead the source code to learn more in-depth")
 }
 
 func changeBooleanValue(boolean *bool) {
