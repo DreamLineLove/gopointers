@@ -3,8 +3,8 @@ package main
 import "flag"
 
 func main() {
-	var basicString string
-	flag.StringVar(&basicString, "basicString", "foo", "The value that will be used in the basic() function.")
+	var basicsString string
+	flag.StringVar(&basicsString, "basicsString", "foo", "The value that will be used in the basic() function.")
 	var functionsString string
 	flag.StringVar(&functionsString, "functionsString", "foo", "The value that will be used in the functions() function.")
 	var methodsString string
@@ -12,7 +12,7 @@ func main() {
 	flag.Parse()
 
 	WriteTitle("With variables")
-	basics(basicString)
+	basics(basicsString)
 	NewLine()
 	WriteTitle("With functions")
 	functions(functionsString)
