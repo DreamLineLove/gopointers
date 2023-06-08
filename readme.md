@@ -1,7 +1,7 @@
 # Welcome to GoPointers!
-In this repository, I explore the use of **pointers** in Go programming language.
+In this repository, I explore the use of **pointers** in the Go programming language.
 
-# Prerequisites
+# Requirements
 - You should have the standard go compiler and toolchain installed.
 - You should have access to the *go* command
 
@@ -11,7 +11,7 @@ In this repository, I explore the use of **pointers** in Go programming language
     $ git clone https://github.com/DreamLineLove/gopointers.git
 ```
 
-- Navigate to */gopointers*
+- Navigate to ```cd gopointers/```
 
 - Use this command to run the application with default setings:
 ```go
