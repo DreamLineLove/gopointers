@@ -8,7 +8,7 @@ In this repository, I explore the use of **pointers** in Go programming language
 # Usage
 - First, clone the repository to your local machine:
 ```
-$ git clone https://github.com/DreamLineLove/gopointers.git
+    $ git clone https://github.com/DreamLineLove/gopointers.git
 ```
 
 - Navigate to */gopointers*
