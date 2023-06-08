@@ -1,5 +1,6 @@
 # Welcome to GoPointers!
 <img src="https://www.golinuxcloud.com/wp-content/uploads/goher2-1-218x300.jpg" width="150px" />
+
 In this repository, I explore the use of **pointers** in the Go programming language.
 
 # Requirements
