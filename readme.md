@@ -15,27 +15,27 @@ $ git clone https://github.com/DreamLineLove/gopointers.git
 
 - Use this command to run the application with default setings:
 ```
-    $ go run ./cmd/pointers/
+$ go run ./cmd/pointers/
 ```
 
 - Use this command to get command line flag options:
 ```
-    $ go run ./cmd/pointers/ -help
+$ go run ./cmd/pointers/ -help
 ```
 
 ## Flags
 - *-basicsString* sets the value of the basicsString variable in basics() function
 ```
-    $ go run ./cmd/pointers/ -basicsString=something
+$ go run ./cmd/pointers/ -basicsString=something
 ```
 
 - *-functionsString* sets the value of the functionsString variable in functions() function
 ```
-    $ go run ./cmd/pointers/ -functionsString=something
+$ go run ./cmd/pointers/ -functionsString=something
 ```
 
 - *-methodsString* sets the value of the methodsString variable in methods() function
 ```
-    $ go run ./cmd/pointers/ -methodsString=something
+$ go run ./cmd/pointers/ -methodsString=something
 ```
 
