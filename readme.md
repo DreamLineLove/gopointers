@@ -24,18 +24,20 @@ In this repository, I explore the use of **pointers** in Go programming language
 ```
 
 ## Flags
-#### -basicsStrings
+### -basicsString
 sets the value of the basicsString variable in basics() function
 ```go
     $ go run ./cmd/pointers/ -basicsString=something
 ```
 
-- *-functionsString* sets the value of the functionsString variable in functions() function
+### -functionsString
+sets the value of the functionsString variable in functions() function
 ```go
     $ go run ./cmd/pointers/ -functionsString=something
 ```
 
-- *-methodsString* sets the value of the methodsString variable in methods() function
+### -methodsString
+sets the value of the methodsString variable in methods() function
 ```go
     $ go run ./cmd/pointers/ -methodsString=something
 ```
