@@ -1,11 +1,12 @@
 # Welcome to GoPointers!
-<img src="https://www.golinuxcloud.com/wp-content/uploads/goher2-1-218x300.jpg" width="150px" />
-
+<img src="https://www.golinuxcloud.com/wp-content/uploads/goher2-1-218x300.jpg" width="150px" alt="Image of the Gopher, the Mascot of Golang" />
+e
 In this repository, I explore the use of **pointers** in the Go programming language.
 
 # Requirements
-- You should have the standard go compiler and toolchain installed.
+- You should have the standard go compiler and toolchain <a href="https://go.dev/learn/" target="_blank">installed</a>
 - You should have access to the *go* command
+- You should have set up *GOPATH* and *GOROOT* environment variables
 
 # Usage
 - First, clone the repository to your local machine:
