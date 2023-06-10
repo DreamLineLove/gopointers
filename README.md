@@ -14,7 +14,7 @@ In this repository, I explore the use of **pointers** in the Go programming lang
     $ git clone https://github.com/DreamLineLove/gopointers.git
 ```
 
-- Navigate to ```cd gopointers/```
+- Navigate to ```cd gopointers```
 
 - Use this command to run with default setings:
 ```go
