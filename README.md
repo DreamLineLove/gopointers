@@ -10,11 +10,11 @@ In this repository, I explore the use of **pointers** in the Go programming lang
 
 # Usage
 - First, clone the repository to your local machine:
-```go
+```
     $ git clone https://github.com/DreamLineLove/gopointers.git
 ```
 
-- Navigate to ```cd gopointers```
+- Navigate to ```$ cd gopointers```
 
 - Use this command to run with default setings:
 ```go
