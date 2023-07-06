@@ -25,4 +25,7 @@ func main() {
 	NewLine()
 	WriteTitle("Handling nil pointers")
 	handlingNil()
+
+	NewLine()
+	WriteTitle("Revisiting pointers in Golang")
 }
