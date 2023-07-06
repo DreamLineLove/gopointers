@@ -28,4 +28,5 @@ func main() {
 
 	NewLine()
 	WriteTitle("Revisiting pointers in Golang")
+	revisiting()
 }
